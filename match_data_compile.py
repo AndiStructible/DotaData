@@ -13,7 +13,7 @@ from functions import (
 BASE_URL = "https://api.opendota.com/api"
 PARSED_FILE = "parsed_matches.json"
 DETAILS_FILE = "match_details_2.json"
-CSV_FILE = "match_details_2.csv"
+CSV_FILE = "match_details_output.csv"
 NUM_BATCHES = 5
 MINUTE = 10
 
