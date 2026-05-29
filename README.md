@@ -75,4 +75,4 @@ jupyter notebook MLDota_DecisionTree.ipynb
 | `functions.py` | API calls, feature extraction helpers, and filter functions |
 | `MLDota.ipynb` | Logistic Regression model and analysis |
 | `MLDota_DecisionTree.ipynb` | Decision Tree model and analysis |
-| `match_details_output.csv` | Processed dataset (git-ignored, generated locally) |
+| `match_details_output.csv` | Processed dataset (generated locally) |
